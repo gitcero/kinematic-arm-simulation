@@ -41,5 +41,8 @@ python src/main.py
 3. Click anywhere on the plot to set a new target.
 4. The arm will attempt to reach the target using inverse kinematics.
 
+## Simulation Preview
+![Kinematic Arm Simulation](notebooks/kinematic_arm_simulation.gif)
+
 ## License
 This project is licensed under the MIT License.
